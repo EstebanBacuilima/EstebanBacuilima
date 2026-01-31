@@ -1,4 +1,4 @@
-#💫About Me:
+💫About Me:
 ⭐I am a software developer highly trained in the design, ✅installation, 🔌testing and❇️ maintenance of systems on multiple platforms and languages. <br>I am passionate about staying up to date with the most innovative tools and procedures to adapt to constantly evolving environments. I have self-management and collaboration skills, which allow me to work on complex projects with multidisciplinary teams and provide innovative and effective solutions. I am proactive, results-oriented and always seeking to improve my skills and knowledge to add greater value to the company and the team.👨‍💻
 
 ## 🌐 Socials:
